@@ -1,0 +1,18 @@
+body{
+    background-image:url(black-background.gif);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    color:aquamarine;
+}
+
+.styling{
+   width:30%
+}
+
+button{
+    background-color: aquamarine;
+    color:black;
+    width: 5%;
+    height: 40px;
+    border-radius:100px ;
+}
